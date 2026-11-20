@@ -3,7 +3,7 @@
 ## Portada
 
 - **Equipo:** Black Bulls · DATAMAD 2026 (URJC, Campus de Vicálvaro)
-- **Creador de esta parte:** Flavio Durán (con ayuda de Claude)
+- **Creador de esta parte:** Flavio Durán 
 - **Día:** 20/11/2026
 - **Problemas que hemos visto en los datos y en la demo:**
   1. Tildes y eñes rotas en los cinco archivos originales (carácter U+FFFD). No se pueden recuperar automáticamente: se reparan con un diccionario de palabras. Si queda alguna sin reparar, el script falla a propósito.
