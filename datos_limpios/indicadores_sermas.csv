@@ -1,0 +1,511 @@
+anio,concepto,valor,unidad
+1995,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,181697.0,Número
+1995,Ingresos en atención especializada del Servicio Madrileño de Salud,283650.0,Número
+1995,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,12628.0,Número
+1995,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+1995,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,93862.0,Número
+1995,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,,Número
+1995,Estancias en atención especializada del Servicio Madrileño de Salud,2689505.0,Número
+1995,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,214982.0,Número
+1995,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,33285.0,Número
+1995,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,,Número
+1995,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,,Número
+1995,Partos totales en atención especializada del Servicio Madrileño de Salud,26060.0,Número
+1995,índice de rotación en atención especializada del Servicio Madrileño de Salud,2.6,Porcentaje
+1995,Ingresos programados en atención especializada del Servicio Madrileño de Salud,,Porcentaje
+1995,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,54.46,Porcentaje
+1995,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,81.42,Porcentaje
+1995,Estancia media en atención especializada del Servicio Madrileño de Salud,9.48,Porcentaje
+1996,Estancias en atención especializada del Servicio Madrileño de Salud,2704950.0,Número
+1996,Ingresos en atención especializada del Servicio Madrileño de Salud,304196.0,Número
+1996,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+1996,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,7658190.0,Número
+1996,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,249.0,Número
+1996,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,9011.0,Número
+1996,Partos totales en atención especializada del Servicio Madrileño de Salud,25870.0,Número
+1996,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,18882.0,Número
+1996,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,229699.0,Número
+1996,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,33066.0,Número
+1996,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,196633.0,Número
+1996,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,123618.0,Número
+1996,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,82.02,Porcentaje
+1996,Ingresos programados en atención especializada del Servicio Madrileño de Salud,48.23,Porcentaje
+1996,índice de rotación en atención especializada del Servicio Madrileño de Salud,2.81,Porcentaje
+1996,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,51.77,Porcentaje
+1996,Estancia media en atención especializada del Servicio Madrileño de Salud,8.89,Porcentaje
+1997,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,203761.0,Número
+1997,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,8696.0,Número
+1997,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,142930.0,Número
+1997,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,236723.0,Número
+1997,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,7669304.0,Número
+1997,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+1997,Estancias en atención especializada del Servicio Madrileño de Salud,2577149.0,Número
+1997,Ingresos en atención especializada del Servicio Madrileño de Salud,296620.0,Número
+1997,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,28282.0,Número
+1997,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,253.0,Número
+1997,Partos totales en atención especializada del Servicio Madrileño de Salud,25622.0,Número
+1997,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,32962.0,Número
+1997,índice de rotación en atención especializada del Servicio Madrileño de Salud,2.84,Porcentaje
+1997,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,81.19,Porcentaje
+1997,Estancia media en atención especializada del Servicio Madrileño de Salud,8.69,Porcentaje
+1997,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,52.11,Porcentaje
+1997,Ingresos programados en atención especializada del Servicio Madrileño de Salud,47.89,Porcentaje
+1998,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,8639.0,Número
+1998,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,259.0,Número
+1998,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,7724632.0,Número
+1998,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+1998,Ingresos en atención especializada del Servicio Madrileño de Salud,297077.0,Número
+1998,Estancias en atención especializada del Servicio Madrileño de Salud,2530680.0,Número
+1998,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,154329.0,Número
+1998,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,216052.0,Número
+1998,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,32912.0,Número
+1998,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,248964.0,Número
+1998,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,37120.0,Número
+1998,Partos totales en atención especializada del Servicio Madrileño de Salud,25728.0,Número
+1998,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,80.08,Porcentaje
+1998,índice de rotación en atención especializada del Servicio Madrileño de Salud,2.87,Porcentaje
+1998,Estancia media en atención especializada del Servicio Madrileño de Salud,8.5,Porcentaje
+1998,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,58.48,Porcentaje
+1998,Ingresos programados en atención especializada del Servicio Madrileño de Salud,41.52,Porcentaje
+1999,Ingresos en atención especializada del Servicio Madrileño de Salud,305876.0,Número
+1999,Estancias en atención especializada del Servicio Madrileño de Salud,2552509.0,Número
+1999,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+1999,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,7820762.0,Número
+1999,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,265.0,Número
+1999,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,49506.0,Número
+1999,Partos totales en atención especializada del Servicio Madrileño de Salud,28787.0,Número
+1999,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,8579.0,Número
+1999,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,244124.0,Número
+1999,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,35861.0,Número
+1999,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,208263.0,Número
+1999,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,191818.0,Número
+1999,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,60.54,Porcentaje
+1999,Ingresos programados en atención especializada del Servicio Madrileño de Salud,39.46,Porcentaje
+1999,índice de rotación en atención especializada del Servicio Madrileño de Salud,2.97,Porcentaje
+1999,Estancia media en atención especializada del Servicio Madrileño de Salud,8.34,Porcentaje
+1999,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,81.52,Porcentaje
+2000,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,,Número
+2000,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,38947.0,Número
+2000,Partos totales en atención especializada del Servicio Madrileño de Salud,31181.0,Número
+2000,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,8408.0,Número
+2000,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,267.0,Número
+2000,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2000,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,209321.0,Número
+2000,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,232082.0,Número
+2000,Estancias en atención especializada del Servicio Madrileño de Salud,2585587.0,Número
+2000,Ingresos en atención especializada del Servicio Madrileño de Salud,314304.0,Número
+2000,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,7943729.0,Número
+2000,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2000,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,63.45,Porcentaje
+2000,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.12,Porcentaje
+2000,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.02,Porcentaje
+2000,Estancia media en atención especializada del Servicio Madrileño de Salud,8.23,Porcentaje
+2000,Ingresos programados en atención especializada del Servicio Madrileño de Salud,36.55,Porcentaje
+2001,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,39527.0,Número
+2001,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,,Número
+2001,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2001,Partos totales en atención especializada del Servicio Madrileño de Salud,33005.0,Número
+2001,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,8453.0,Número
+2001,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,270.0,Número
+2001,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,7976596.0,Número
+2001,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2001,Ingresos en atención especializada del Servicio Madrileño de Salud,320809.0,Número
+2001,Estancias en atención especializada del Servicio Madrileño de Salud,2603105.0,Número
+2001,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,279225.0,Número
+2001,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,212183.0,Número
+2001,Ingresos programados en atención especializada del Servicio Madrileño de Salud,35.82,Porcentaje
+2001,Estancia media en atención especializada del Servicio Madrileño de Salud,8.11,Porcentaje
+2001,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,69.18,Porcentaje
+2001,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.16,Porcentaje
+2001,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.36,Porcentaje
+2002,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,48984.0,Número
+2002,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,241621.0,Número
+2002,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2002,Partos totales en atención especializada del Servicio Madrileño de Salud,39476.0,Número
+2002,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,11526.0,Número
+2002,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,349.0,Número
+2002,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,,Número
+2002,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,300182.0,Número
+2002,Estancias en atención especializada del Servicio Madrileño de Salud,3556885.0,Número
+2002,Ingresos en atención especializada del Servicio Madrileño de Salud,400225.0,Número
+2002,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2002,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,8643332.0,Número
+2002,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,63.86,Porcentaje
+2002,índice de rotación en atención especializada del Servicio Madrileño de Salud,2.89,Porcentaje
+2002,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.55,Porcentaje
+2002,Estancia media en atención especializada del Servicio Madrileño de Salud,8.89,Porcentaje
+2002,Ingresos programados en atención especializada del Servicio Madrileño de Salud,36.14,Porcentaje
+2003,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,48766.0,Número
+2003,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,248773.0,Número
+2003,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2003,Partos totales en atención especializada del Servicio Madrileño de Salud,41834.0,Número
+2003,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,11562.0,Número
+2003,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,351.0,Número
+2003,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,303484.0,Número
+2003,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,339523.0,Número
+2003,Estancias en atención especializada del Servicio Madrileño de Salud,3596144.0,Número
+2003,Ingresos en atención especializada del Servicio Madrileño de Salud,408227.0,Número
+2003,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2003,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,8957326.0,Número
+2003,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,64.34,Porcentaje
+2003,índice de rotación en atención especializada del Servicio Madrileño de Salud,2.94,Porcentaje
+2003,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,85.21,Porcentaje
+2003,Estancia media en atención especializada del Servicio Madrileño de Salud,8.81,Porcentaje
+2003,Ingresos programados en atención especializada del Servicio Madrileño de Salud,35.66,Porcentaje
+2004,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,51042.0,Número
+2004,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,275221.0,Número
+2004,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2004,Partos totales en atención especializada del Servicio Madrileño de Salud,44781.0,Número
+2004,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,11805.0,Número
+2004,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,375.0,Número
+2004,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,334215.0,Número
+2004,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,407267.0,Número
+2004,Estancias en atención especializada del Servicio Madrileño de Salud,3645678.0,Número
+2004,Ingresos en atención especializada del Servicio Madrileño de Salud,426993.0,Número
+2004,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2004,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,9349832.0,Número
+2004,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,63.77,Porcentaje
+2004,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.01,Porcentaje
+2004,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.38,Porcentaje
+2004,Estancia media en atención especializada del Servicio Madrileño de Salud,8.54,Porcentaje
+2004,Ingresos programados en atención especializada del Servicio Madrileño de Salud,36.23,Porcentaje
+2005,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,51102.0,Número
+2005,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,288223.0,Número
+2005,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2005,Partos totales en atención especializada del Servicio Madrileño de Salud,44835.0,Número
+2005,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12002.0,Número
+2005,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,375.0,Número
+2005,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,348394.0,Número
+2005,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,453424.0,Número
+2005,Estancias en atención especializada del Servicio Madrileño de Salud,3715233.0,Número
+2005,Ingresos en atención especializada del Servicio Madrileño de Salud,437697.0,Número
+2005,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2005,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,9378418.0,Número
+2005,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,63.74,Porcentaje
+2005,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.04,Porcentaje
+2005,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.81,Porcentaje
+2005,Estancia media en atención especializada del Servicio Madrileño de Salud,8.49,Porcentaje
+2005,Ingresos programados en atención especializada del Servicio Madrileño de Salud,36.26,Porcentaje
+2006,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,51993.0,Número
+2006,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,289207.0,Número
+2006,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2006,Partos totales en atención especializada del Servicio Madrileño de Salud,46635.0,Número
+2006,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12038.0,Número
+2006,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,377.0,Número
+2006,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,349394.0,Número
+2006,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,485907.0,Número
+2006,Estancias en atención especializada del Servicio Madrileño de Salud,3717176.0,Número
+2006,Ingresos en atención especializada del Servicio Madrileño de Salud,442054.0,Número
+2006,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2006,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,9859154.0,Número
+2006,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,64.51,Porcentaje
+2006,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.06,Porcentaje
+2006,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.6,Porcentaje
+2006,Estancia media en atención especializada del Servicio Madrileño de Salud,8.41,Porcentaje
+2006,Ingresos programados en atención especializada del Servicio Madrileño de Salud,35.49,Porcentaje
+2007,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2007,Ingresos en atención especializada del Servicio Madrileño de Salud,457849.0,Número
+2007,Estancias en atención especializada del Servicio Madrileño de Salud,3801462.0,Número
+2007,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,495286.0,Número
+2007,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,293389.0,Número
+2007,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,53096.0,Número
+2007,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,353912.0,Número
+2007,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2007,Partos totales en atención especializada del Servicio Madrileño de Salud,48894.0,Número
+2007,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12153.0,Número
+2007,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,378.0,Número
+2007,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,10201556.0,Número
+2007,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.14,Porcentaje
+2007,Ingresos programados en atención especializada del Servicio Madrileño de Salud,35.97,Porcentaje
+2007,Estancia media en atención especializada del Servicio Madrileño de Salud,8.3,Porcentaje
+2007,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,85.7,Porcentaje
+2007,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,64.03,Porcentaje
+2008,Ingresos en atención especializada del Servicio Madrileño de Salud,467093.0,Número
+2008,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,54080.0,Número
+2008,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,360584.0,Número
+2008,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2008,Partos totales en atención especializada del Servicio Madrileño de Salud,52108.0,Número
+2008,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,10467866.0,Número
+2008,Estancias en atención especializada del Servicio Madrileño de Salud,3832602.0,Número
+2008,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12600.0,Número
+2008,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,298248.0,Número
+2008,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2008,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,538151.0,Número
+2008,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,431.0,Número
+2008,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,64.88,Porcentaje
+2008,Estancia media en atención especializada del Servicio Madrileño de Salud,8.21,Porcentaje
+2008,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,83.1,Porcentaje
+2008,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.09,Porcentaje
+2008,Ingresos programados en atención especializada del Servicio Madrileño de Salud,35.12,Porcentaje
+2009,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12731.0,Número
+2009,Partos totales en atención especializada del Servicio Madrileño de Salud,50060.0,Número
+2009,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2009,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,390403.0,Número
+2009,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,53206.0,Número
+2009,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,327648.0,Número
+2009,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,612381.0,Número
+2009,Estancias en atención especializada del Servicio Madrileño de Salud,3908516.0,Número
+2009,Ingresos en atención especializada del Servicio Madrileño de Salud,485503.0,Número
+2009,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,11287779.0,Número
+2009,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2009,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,425.0,Número
+2009,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.18,Porcentaje
+2009,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.11,Porcentaje
+2009,Ingresos programados en atención especializada del Servicio Madrileño de Salud,35.35,Porcentaje
+2009,Estancia media en atención especializada del Servicio Madrileño de Salud,8.05,Porcentaje
+2009,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,64.65,Porcentaje
+2010,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12365.0,Número
+2010,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,431.0,Número
+2010,Estancias en atención especializada del Servicio Madrileño de Salud,3783079.0,Número
+2010,Ingresos en atención especializada del Servicio Madrileño de Salud,483602.0,Número
+2010,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2010,Partos totales en atención especializada del Servicio Madrileño de Salud,49084.0,Número
+2010,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,11371969.0,Número
+2010,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,677921.0,Número
+2010,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,341410.0,Número
+2010,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,52106.0,Número
+2010,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,403663.0,Número
+2010,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2010,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,83.82,Porcentaje
+2010,Estancia media en atención especializada del Servicio Madrileño de Salud,7.82,Porcentaje
+2010,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.26,Porcentaje
+2010,Ingresos programados en atención especializada del Servicio Madrileño de Salud,35.6,Porcentaje
+2010,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,64.4,Porcentaje
+2011,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12663.0,Número
+2011,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,459.0,Número
+2011,Estancias en atención especializada del Servicio Madrileño de Salud,3825175.0,Número
+2011,Ingresos en atención especializada del Servicio Madrileño de Salud,499992.0,Número
+2011,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2011,Partos totales en atención especializada del Servicio Madrileño de Salud,48431.0,Número
+2011,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,11850129.0,Número
+2011,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,730721.0,Número
+2011,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,358513.0,Número
+2011,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,51547.0,Número
+2011,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,419914.0,Número
+2011,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2011,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,82.76,Porcentaje
+2011,Estancia media en atención especializada del Servicio Madrileño de Salud,7.65,Porcentaje
+2011,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.29,Porcentaje
+2011,Ingresos programados en atención especializada del Servicio Madrileño de Salud,36.5,Porcentaje
+2011,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,63.5,Porcentaje
+2012,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12536.0,Número
+2012,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,468.0,Número
+2012,Estancias en atención especializada del Servicio Madrileño de Salud,3772728.0,Número
+2012,Ingresos en atención especializada del Servicio Madrileño de Salud,499463.0,Número
+2012,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2012,Partos totales en atención especializada del Servicio Madrileño de Salud,48429.0,Número
+2012,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,11773121.0,Número
+2012,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,757184.0,Número
+2012,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,359385.0,Número
+2012,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,51351.0,Número
+2012,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,420456.0,Número
+2012,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2012,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,82.22,Porcentaje
+2012,Estancia media en atención especializada del Servicio Madrileño de Salud,7.55,Porcentaje
+2012,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.31,Porcentaje
+2012,Ingresos programados en atención especializada del Servicio Madrileño de Salud,34.56,Porcentaje
+2012,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,65.44,Porcentaje
+2013,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12219.0,Número
+2013,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,470.0,Número
+2013,Estancias en atención especializada del Servicio Madrileño de Salud,3698998.0,Número
+2013,Ingresos en atención especializada del Servicio Madrileño de Salud,498812.0,Número
+2013,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2013,Partos totales en atención especializada del Servicio Madrileño de Salud,45615.0,Número
+2013,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,12178162.0,Número
+2013,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,837832.0,Número
+2013,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,370037.0,Número
+2013,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,50305.0,Número
+2013,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,430293.0,Número
+2013,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2013,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,82.94,Porcentaje
+2013,Estancia media en atención especializada del Servicio Madrileño de Salud,7.42,Porcentaje
+2013,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.4,Porcentaje
+2013,Ingresos programados en atención especializada del Servicio Madrileño de Salud,34.25,Porcentaje
+2013,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,65.75,Porcentaje
+2014,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12344.0,Número
+2014,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,473.0,Número
+2014,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,12491402.0,Número
+2014,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,878655.0,Número
+2014,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,389249.0,Número
+2014,Estancias en atención especializada del Servicio Madrileño de Salud,3679079.0,Número
+2014,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,446814.0,Número
+2014,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2014,Partos totales en atención especializada del Servicio Madrileño de Salud,46539.0,Número
+2014,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2014,Ingresos en atención especializada del Servicio Madrileño de Salud,507424.0,Número
+2014,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,50673.0,Número
+2014,Ingresos programados en atención especializada del Servicio Madrileño de Salud,34.17,Porcentaje
+2014,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,65.83,Porcentaje
+2014,Estancia media en atención especializada del Servicio Madrileño de Salud,7.25,Porcentaje
+2014,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,81.65,Porcentaje
+2014,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.43,Porcentaje
+2015,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12577.0,Número
+2015,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,478.0,Número
+2015,Estancias en atención especializada del Servicio Madrileño de Salud,3730974.0,Número
+2015,Ingresos en atención especializada del Servicio Madrileño de Salud,516927.0,Número
+2015,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2015,Partos totales en atención especializada del Servicio Madrileño de Salud,46852.0,Número
+2015,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,12896097.0,Número
+2015,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,924873.0,Número
+2015,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,406195.0,Número
+2015,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,50642.0,Número
+2015,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,461973.0,Número
+2015,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2015,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,81.27,Porcentaje
+2015,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,67.62,Porcentaje
+2015,Estancia media en atención especializada del Servicio Madrileño de Salud,7.22,Porcentaje
+2015,Ingresos programados en atención especializada del Servicio Madrileño de Salud,32.38,Porcentaje
+2015,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.43,Porcentaje
+2016,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12390.0,Número
+2016,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,476.0,Número
+2016,Estancias en atención especializada del Servicio Madrileño de Salud,3748625.0,Número
+2016,Ingresos en atención especializada del Servicio Madrileño de Salud,519828.0,Número
+2016,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2016,Partos totales en atención especializada del Servicio Madrileño de Salud,46673.0,Número
+2016,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,12984661.0,Número
+2016,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,991869.0,Número
+2016,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,396864.0,Número
+2016,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,50226.0,Número
+2016,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,452310.0,Número
+2016,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2016,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,82.66,Porcentaje
+2016,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,68.21,Porcentaje
+2016,Estancia media en atención especializada del Servicio Madrileño de Salud,7.21,Porcentaje
+2016,Ingresos programados en atención especializada del Servicio Madrileño de Salud,31.79,Porcentaje
+2016,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.5,Porcentaje
+2017,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12361.0,Número
+2017,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,475.0,Número
+2017,Estancias en atención especializada del Servicio Madrileño de Salud,3711264.0,Número
+2017,Ingresos en atención especializada del Servicio Madrileño de Salud,523038.0,Número
+2017,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2017,Partos totales en atención especializada del Servicio Madrileño de Salud,44389.0,Número
+2017,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,13144794.0,Número
+2017,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,1026157.0,Número
+2017,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,409341.0,Número
+2017,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,50737.0,Número
+2017,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,465437.0,Número
+2017,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2017,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,82.26,Porcentaje
+2017,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,68.27,Porcentaje
+2017,Estancia media en atención especializada del Servicio Madrileño de Salud,7.1,Porcentaje
+2017,Ingresos programados en atención especializada del Servicio Madrileño de Salud,31.73,Porcentaje
+2017,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.53,Porcentaje
+2018,Partos totales en atención especializada del Servicio Madrileño de Salud,43649.0,Número
+2018,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12246.0,Número
+2018,Estancias en atención especializada del Servicio Madrileño de Salud,3701035.0,Número
+2018,Ingresos en atención especializada del Servicio Madrileño de Salud,525421.0,Número
+2018,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2018,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2018,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,478.0,Número
+2018,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,13176108.0,Número
+2018,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,1032924.0,Número
+2018,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,407507.0,Número
+2018,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,50683.0,Número
+2018,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,463516.0,Número
+2018,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,67.41,Porcentaje
+2018,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,82.8,Porcentaje
+2018,Ingresos programados en atención especializada del Servicio Madrileño de Salud,32.59,Porcentaje
+2018,Estancia media en atención especializada del Servicio Madrileño de Salud,7.04,Porcentaje
+2018,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.58,Porcentaje
+2019,Partos totales en atención especializada del Servicio Madrileño de Salud,42596.0,Número
+2019,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12261.0,Número
+2019,Estancias en atención especializada del Servicio Madrileño de Salud,3694291.0,Número
+2019,Ingresos en atención especializada del Servicio Madrileño de Salud,525430.0,Número
+2019,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,,Número
+2019,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2019,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,484.0,Número
+2019,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,13468104.0,Número
+2019,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,1072593.0,Número
+2019,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,402281.0,Número
+2019,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,51625.0,Número
+2019,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,458665.0,Número
+2019,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,66.57,Porcentaje
+2019,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,82.55,Porcentaje
+2019,Ingresos programados en atención especializada del Servicio Madrileño de Salud,33.43,Porcentaje
+2019,Estancia media en atención especializada del Servicio Madrileño de Salud,7.03,Porcentaje
+2019,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.57,Porcentaje
+2020,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,268468.0,Número
+2020,Ingresos en atención especializada del Servicio Madrileño de Salud,477741.0,Número
+2020,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2020,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,1689655.0,Número
+2020,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,799805.0,Número
+2020,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12309.0,Número
+2020,Estancias en atención especializada del Servicio Madrileño de Salud,3623884.0,Número
+2020,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,316116.0,Número
+2020,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,43520.0,Número
+2020,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,478.0,Número
+2020,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,10630605.0,Número
+2020,Partos totales en atención especializada del Servicio Madrileño de Salud,38508.0,Número
+2020,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.23,Porcentaje
+2020,Ingresos programados en atención especializada del Servicio Madrileño de Salud,27.56,Porcentaje
+2020,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,72.44,Porcentaje
+2020,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,80.44,Porcentaje
+2020,Estancia media en atención especializada del Servicio Madrileño de Salud,7.59,Porcentaje
+2021,Estancias en atención especializada del Servicio Madrileño de Salud,3612602.0,Número
+2021,Ingresos en atención especializada del Servicio Madrileño de Salud,488944.0,Número
+2021,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,1958455.0,Número
+2021,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,11824339.0,Número
+2021,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,482.0,Número
+2021,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,12495.0,Número
+2021,Partos totales en atención especializada del Servicio Madrileño de Salud,37009.0,Número
+2021,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2021,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,395513.0,Número
+2021,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,47545.0,Número
+2021,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,342781.0,Número
+2021,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,957980.0,Número
+2021,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,79.21,Porcentaje
+2021,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.26,Porcentaje
+2021,Ingresos programados en atención especializada del Servicio Madrileño de Salud,31.87,Porcentaje
+2021,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,68.13,Porcentaje
+2021,Estancia media en atención especializada del Servicio Madrileño de Salud,7.39,Porcentaje
+2022,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,398971.0,Número
+2022,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,11854.0,Número
+2022,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,1072048.0,Número
+2022,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,454106.0,Número
+2022,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,12671849.0,Número
+2022,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,1711019.0,Número
+2022,Estancias en atención especializada del Servicio Madrileño de Salud,3635074.0,Número
+2022,Ingresos en atención especializada del Servicio Madrileño de Salud,515365.0,Número
+2022,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2022,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,485.0,Número
+2022,Partos totales en atención especializada del Servicio Madrileño de Salud,37247.0,Número
+2022,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,49322.0,Número
+2022,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.62,Porcentaje
+2022,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.02,Porcentaje
+2022,Estancia media en atención especializada del Servicio Madrileño de Salud,7.05,Porcentaje
+2022,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,68.76,Porcentaje
+2022,Ingresos programados en atención especializada del Servicio Madrileño de Salud,31.24,Porcentaje
+2023,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,11894.0,Número
+2023,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,487.0,Número
+2023,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,12989939.0,Número
+2023,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,1806738.0,Número
+2023,Ingresos en atención especializada del Servicio Madrileño de Salud,534139.0,Número
+2023,Estancias en atención especializada del Servicio Madrileño de Salud,3648309.0,Número
+2023,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,1153472.0,Número
+2023,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,433695.0,Número
+2023,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,50585.0,Número
+2023,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,490043.0,Número
+2023,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2023,Partos totales en atención especializada del Servicio Madrileño de Salud,37592.0,Número
+2023,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,84.04,Porcentaje
+2023,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.74,Porcentaje
+2023,Estancia media en atención especializada del Servicio Madrileño de Salud,6.81,Porcentaje
+2023,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,67.63,Porcentaje
+2023,Ingresos programados en atención especializada del Servicio Madrileño de Salud,32.37,Porcentaje
+2024,Ingresos en atención especializada del Servicio Madrileño de Salud,545842.0,Número
+2024,Estancias en atención especializada del Servicio Madrileño de Salud,3649707.0,Número
+2024,Consultas no presenciales (telefónicas y telemedicina) en atención especializada del Servicio Madrileño de Salud,2040212.0,Número
+2024,Consultas presenciales en atención especializada del Servicio Madrileño de Salud,13581992.0,Número
+2024,Quirófanos instalados en atención especializada del Servicio Madrileño de Salud,495.0,Número
+2024,Cirugía mayor ambulatoria (CMA) en atención especializada del Servicio Madrileño de Salud,,Número
+2024,Partos totales en atención especializada del Servicio Madrileño de Salud,38157.0,Número
+2024,Camas en funcionamiento en atención especializada del Servicio Madrileño de Salud,11936.0,Número
+2024,Intervenciones quirúrgicas en atención especializada del Servicio Madrileño de Salud,515275.0,Número
+2024,Intervenciones urgentes con hospitalización en atención especializada del Servicio Madrileño de Salud,53541.0,Número
+2024,Intervenciones programadas más cirugía mayor ambulatoria en atención especializada del Servicio Madrileño de Salud,455984.0,Número
+2024,Tratamientos hospitalarios de día en atención especializada del Servicio Madrileño de Salud,1220460.0,Número
+2024,Porcentaje de ingresos urgentes en atención especializada del Servicio Madrileño de Salud,67.88,Porcentaje
+2024,Ingresos programados en atención especializada del Servicio Madrileño de Salud,32.12,Porcentaje
+2024,índice de rotación en atención especializada del Servicio Madrileño de Salud,3.81,Porcentaje
+2024,Estancia media en atención especializada del Servicio Madrileño de Salud,6.69,Porcentaje
+2024,Porcentaje de ocupación en atención especializada del Servicio Madrileño de Salud,83.77,Porcentaje

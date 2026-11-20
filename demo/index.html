@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="es">
+<head>
+<!--
+  Hospital Flow · demo estática (DataMad 2026, Black Bulls)
+  Creador: Flavio Durán (con ayuda de Claude) · Día: 20/11/2026
+  Sin claves de API, sin backend, sin llamadas de red desde la página.
+-->
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="referrer" content="no-referrer">
+<meta name="color-scheme" content="light">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; font-src 'self'; img-src 'self' data:; connect-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'">
+<meta name="robots" content="noindex, nofollow">
+<meta name="description" content="Demo: a qué hospital ir en Madrid con datos abiertos. Sin cuentas ni envío de datos.">
+<title>Hospital Flow · Demo</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="saltar" href="#app">Saltar al contenido</a>
+
+<main id="app" class="app">
+  <div class="blob blob-1" aria-hidden="true"></div>
+  <div class="blob blob-2" aria-hidden="true"></div>
+
+  <!-- ============ INICIO ============ -->
+  <section id="pantalla-inicio" class="pantalla" aria-label="Inicio">
+    <header class="barra up">
+      <div class="marca">
+        <span class="marca-icono" aria-hidden="true">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/><path d="M3.22 12H9.5l.5-1 2 4.5 2-7 1.5 3.5h5.27"/></svg>
+        </span>
+        <span>Hospital Flow</span>
+      </div>
+      <a class="pill-112" href="tel:112" aria-label="Llamar al 112">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"/></svg>
+        112
+      </a>
+    </header>
+
+    <div class="saludo up d1">
+      <span class="kicker">Hola, estoy aquí para orientarte</span>
+      <h1 id="t-inicio" tabindex="-1">¿Qué te pasa hoy?</h1>
+    </div>
+
+    <form id="form-consulta" class="caja up d2" novalidate>
+      <label for="texto" class="sr">Cuéntame qué te pasa</label>
+      <textarea id="texto" rows="2" maxlength="500" placeholder="Cuéntamelo con tus palabras…" autocomplete="off" spellcheck="false"></textarea>
+      <button type="submit" class="enviar" aria-label="Buscar hospital">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      </button>
+    </form>
+    <p id="aviso-corto" class="aviso" role="status" hidden>Escribe al menos 3 letras o elige una opción.</p>
+
+    <div class="chips up d3">
+      <button type="button" class="chip chip-azul" data-texto="Me he torcido el tobillo jugando al fútbol">Tobillo torcido</button>
+      <button type="button" class="chip chip-melo" data-texto="Mi hija tiene fiebre alta desde ayer">Niña con fiebre</button>
+      <button type="button" class="chip chip-menta" data-texto="Necesito operarme la rodilla">Operarme la rodilla</button>
+      <button type="button" class="chip chip-lila" data-texto="Me duele el pecho">Dolor de pecho</button>
+    </div>
+
+    <div class="ubicacion up d4">
+      <span class="punto" aria-hidden="true"></span>
+      <span id="ubicacion-txt" class="ubicacion-txt">Ejemplo: Puerta del Sol</span>
+      <button type="button" id="btn-ubicacion" class="enlace">Usar mi ubicación</button>
+    </div>
+
+    <p class="nota-pie">Lo que escribes no sale de tu móvil. Sin cuentas ni claves de API.</p>
+
+    <nav class="tabbar" aria-label="Secciones">
+      <button type="button" class="tab" aria-current="page">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/><path d="M3 10a2 2 0 0 1 .709-1.528l7-5.999a2 2 0 0 1 2.582 0l7 5.999A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>
+        Inicio
+      </button>
+      <button type="button" class="tab" id="nav-contactos">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M22 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        Contactos
+      </button>
+    </nav>
+  </section>
+
+  <!-- ============ CARGANDO ============ -->
+  <section id="pantalla-cargando" class="pantalla cargando" role="status" hidden>
+    <div class="puntos" aria-hidden="true"><span></span><span></span><span></span></div>
+    <p>Buscando el mejor hospital…</p>
+  </section>
+
+  <!-- ============ RESULTADO ============ -->
+  <section id="pantalla-resultado" class="pantalla" aria-label="Resultado" hidden>
+    <header class="barra up">
+      <button type="button" class="volver" data-volver aria-label="Nueva consulta">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>
+      </button>
+      <span id="res-etiqueta" class="etiqueta"></span>
+      <a class="pill-112 compacta" href="tel:112" aria-label="Llamar al 112">112</a>
+    </header>
+
+    <div class="anillo-wrap up d1">
+      <svg role="img" aria-label="Tiempo o demora estimados" viewBox="0 0 200 200">
+        <circle class="anillo-fondo" cx="100" cy="100" r="80" stroke-width="12"></circle>
+        <circle id="anillo" class="anillo-valor" cx="100" cy="100" r="80" stroke-dasharray="503" stroke-dashoffset="503"></circle>
+      </svg>
+      <div class="anillo-centro">
+        <span id="res-total" class="anillo-total">0</span>
+        <span id="res-unidad" class="anillo-unidad"></span>
+      </div>
+    </div>
+
+    <div class="cabecera-res up d2">
+      <span class="kicker">Te recomendamos</span>
+      <h1 id="res-nombre" tabindex="-1"></h1>
+      <span id="res-municipio" class="municipio"></span>
+    </div>
+
+    <div class="metricas up d3">
+      <span><strong id="m-viaje"></strong> <small>viaje estimado</small></span>
+      <span class="sep" aria-hidden="true"></span>
+      <span><strong id="m-espera"></strong> <small id="m-espera-txt"></small></span>
+    </div>
+
+    <p id="res-porque" class="porque up d3"></p>
+
+    <a id="res-maps" class="boton-principal up d4" href="#" target="_blank" rel="noopener noreferrer">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="3 11 22 2 13 21 11 13 3 11"/></svg>
+      Cómo llegar
+    </a>
+
+    <div class="acciones up d5">
+      <button type="button" class="accion" id="abrir-taxi">
+        <span class="circulo circulo-ambar"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 2h4"/><path d="m21 8-2 2-1.5-3.7A2 2 0 0 0 15.646 5H8.4a2 2 0 0 0-1.903 1.257L5 10 3 8"/><path d="M7 14h.01"/><path d="M17 14h.01"/><rect width="18" height="8" x="3" y="10" rx="2"/><path d="M5 18v2"/><path d="M19 18v2"/></svg></span>
+        Pedir taxi
+      </button>
+      <button type="button" class="accion" id="abrir-avisar">
+        <span class="circulo circulo-lila"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7.9 20A9 9 0 1 0 4 16.1L2 22Z"/></svg></span>
+        Avisar
+      </button>
+    </div>
+
+    <p id="res-nota" class="nota"></p>
+  </section>
+
+  <!-- ============ EMERGENCIA ============ -->
+  <section id="pantalla-grave" class="pantalla grave" aria-label="Emergencia" hidden>
+    <button type="button" class="volver" data-volver aria-label="Nueva consulta">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>
+    </button>
+    <div class="grave-tarjeta" role="alert">
+      <span class="grave-icono" aria-hidden="true">
+        <span>
+          <svg width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384"/></svg>
+        </span>
+      </span>
+      <h1 id="grave-titulo" tabindex="-1">Puede ser una emergencia</h1>
+      <p>Llama al 112 ahora y sigue sus instrucciones. No conduzcas tú hasta el hospital.</p>
+      <a class="boton-112" href="tel:112">Llamar al 112</a>
+      <button type="button" class="boton-borde" id="grave-avisar">Avisar a alguien</button>
+    </div>
+  </section>
+
+  <!-- ============ VELO Y HOJAS ============ -->
+  <div id="velo" class="velo" hidden></div>
+
+  <section id="hoja-taxi" class="hoja" role="dialog" aria-modal="true" aria-labelledby="taxi-titulo" hidden>
+    <span class="tirador" aria-hidden="true"></span>
+    <h2 id="taxi-titulo" tabindex="-1">Pedir taxi</h2>
+    <p id="taxi-dile" class="caja-suave"></p>
+    <ul id="lista-taxis" class="lista"></ul>
+    <p id="taxi-aviso" class="pie-hoja"></p>
+    <button type="button" class="boton-texto" data-cerrar>Cerrar</button>
+  </section>
+
+  <section id="hoja-avisar" class="hoja" role="dialog" aria-modal="true" aria-labelledby="avisar-titulo" hidden>
+    <span class="tirador" aria-hidden="true"></span>
+    <h2 id="avisar-titulo" tabindex="-1">Avisar a alguien</h2>
+    <p id="avisar-msg" class="caja-suave"></p>
+    <ul id="lista-contactos" class="lista"></ul>
+
+    <form id="form-contacto" class="formulario" novalidate>
+      <p class="pie-hoja">Los contactos se guardan solo en este móvil. Puedes borrarlos cuando quieras.</p>
+      <label class="campo">Nombre
+        <input id="contacto-nombre" type="text" maxlength="40" autocomplete="off">
+      </label>
+      <label class="campo">Teléfono (con prefijo si es internacional)
+        <input id="contacto-tel" type="tel" maxlength="16" inputmode="tel" autocomplete="off" placeholder="+34 600 000 000">
+      </label>
+      <p id="contacto-error" class="error" role="alert" hidden></p>
+      <button type="submit" class="boton-azul">Guardar contacto</button>
+    </form>
+    <button type="button" class="boton-texto" id="borrar-datos">Borrar mis contactos</button>
+    <button type="button" class="boton-texto" data-cerrar>Cerrar</button>
+  </section>
+</main>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

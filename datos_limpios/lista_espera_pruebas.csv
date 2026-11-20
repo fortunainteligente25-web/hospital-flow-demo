@@ -1,0 +1,231 @@
+anio,hospital_id,hospital,pacientes,demora_media_dias
+2017,cruz-roja,Hospital Central de la Cruz Roja San José y Santa Adela,370.0,26.12
+2017,gomez-ulla,Hospital Central de la Defensa Gómez Ulla,2561.0,70.27
+2017,clinico,Hospital Clínico San Carlos,3459.0,22.42
+2017,fjd,Hospital Fundación Jiménez Díaz,1931.0,6.86
+2017,gregorio-maranon,Hospital General Universitario Gregorio Marañón,10997.0,40.09
+2017,villalba,Hospital General de Villalba,248.0,3.99
+2017,nino-jesus,Hospital Infantil Universitario Niño Jesús,663.0,33.31
+2017,rey-juan-carlos,Hospital Rey Juan Carlos,1735.0,9.02
+2017,12-octubre,Hospital Universitario 12 de Octubre,5622.0,32.23
+2017,alcorcon,Hospital Universitario Fundación Alcorcón,4102.0,35.37
+2017,infanta-cristina,Hospital Universitario Infanta Cristina,3321.0,56.41
+2017,infanta-elena,Hospital Universitario Infanta Elena,777.0,7.72
+2017,infanta-leonor,Hospital Universitario Infanta Leonor,8565.0,56.24
+2017,infanta-sofia,Hospital Universitario Infanta Sofía,10189.0,58.64
+2017,la-paz,Hospital Universitario La Paz,11978.0,61.24
+2017,principe-asturias,Hospital Universitario Príncipe de Asturias,6009.0,31.6
+2017,puerta-hierro,Hospital Universitario Puerta de Hierro Majadahonda,2246.0,6.93
+2017,ramon-y-cajal,Hospital Universitario Ramón y Cajal,3307.0,20.39
+2017,santa-cristina,Hospital Universitario Santa Cristina,2443.0,51.32
+2017,severo-ochoa,Hospital Universitario Severo Ochoa,2260.0,53.84
+2017,fuenlabrada,Hospital Universitario de Fuenlabrada,2748.0,69.53
+2017,getafe,Hospital Universitario de Getafe,3299.0,43.32
+2017,mostoles,Hospital Universitario de Móstoles,3508.0,34.39
+2017,torrejon,Hospital Universitario de Torrejón,2170.0,14.03
+2017,la-princesa,Hospital Universitario de la Princesa,4726.0,42.0
+2017,henares,Hospital Universitario del Henares,6000.0,72.59
+2017,sureste,Hospital Universitario del Sureste,6673.0,73.98
+2017,tajo,Hospital Universitario del Tajo,2597.0,35.99
+2017,el-escorial,Hospital de El Escorial,905.0,24.1
+2018,cruz-roja,Hospital Central de la Cruz Roja San José y Santa Adela,605.0,32.54
+2018,gomez-ulla,Hospital Central de la Defensa Gómez Ulla,1458.0,78.68
+2018,clinico,Hospital Clínico San Carlos,4374.0,43.44
+2018,fjd,Hospital Fundación Jiménez Díaz,2218.0,8.16
+2018,gregorio-maranon,Hospital General Universitario Gregorio Marañón,4185.0,31.77
+2018,villalba,Hospital General de Villalba,135.0,3.79
+2018,nino-jesus,Hospital Infantil Universitario Niño Jesús,302.0,43.5
+2018,rey-juan-carlos,Hospital Rey Juan Carlos,1660.0,8.92
+2018,12-octubre,Hospital Universitario 12 de Octubre,7086.0,36.74
+2018,alcorcon,Hospital Universitario Fundación Alcorcón,4539.0,54.55
+2018,infanta-cristina,Hospital Universitario Infanta Cristina,1103.0,39.9
+2018,infanta-elena,Hospital Universitario Infanta Elena,807.0,7.66
+2018,infanta-leonor,Hospital Universitario Infanta Leonor,6747.0,59.33
+2018,infanta-sofia,Hospital Universitario Infanta Sofía,9751.0,64.01
+2018,la-paz,Hospital Universitario La Paz,11494.0,43.91
+2018,principe-asturias,Hospital Universitario Príncipe de Asturias,5908.0,33.38
+2018,puerta-hierro,Hospital Universitario Puerta de Hierro Majadahonda,1945.0,9.01
+2018,ramon-y-cajal,Hospital Universitario Ramón y Cajal,7035.0,30.22
+2018,santa-cristina,Hospital Universitario Santa Cristina,1725.0,44.34
+2018,severo-ochoa,Hospital Universitario Severo Ochoa,3553.0,54.75
+2018,fuenlabrada,Hospital Universitario de Fuenlabrada,3470.0,68.9
+2018,getafe,Hospital Universitario de Getafe,3623.0,68.14
+2018,mostoles,Hospital Universitario de Móstoles,4171.0,47.8
+2018,torrejon,Hospital Universitario de Torrejón,2655.0,14.45
+2018,la-princesa,Hospital Universitario de la Princesa,4870.0,45.2
+2018,henares,Hospital Universitario del Henares,4412.0,56.15
+2018,sureste,Hospital Universitario del Sureste,8436.0,75.29
+2018,tajo,Hospital Universitario del Tajo,3002.0,33.6
+2018,el-escorial,Hospital de El Escorial,792.0,7.15
+2019,cruz-roja,Hospital Central de la Cruz Roja San José y Santa Adela,519.0,24.18
+2019,gomez-ulla,Hospital Central de la Defensa Gómez Ulla,1870.0,58.24
+2019,clinico,Hospital Clínico San Carlos,5169.0,68.89
+2019,fjd,Hospital Fundación Jiménez Díaz,2707.0,8.31
+2019,gregorio-maranon,Hospital General Universitario Gregorio Marañón,4107.0,18.98
+2019,villalba,Hospital General de Villalba,79.0,3.39
+2019,nino-jesus,Hospital Infantil Universitario Niño Jesús,411.0,26.65
+2019,rey-juan-carlos,Hospital Rey Juan Carlos,2263.0,6.04
+2019,12-octubre,Hospital Universitario 12 de Octubre,10200.0,48.37
+2019,alcorcon,Hospital Universitario Fundación Alcorcón,2638.0,72.02
+2019,infanta-cristina,Hospital Universitario Infanta Cristina,1662.0,61.06
+2019,infanta-elena,Hospital Universitario Infanta Elena,465.0,7.15
+2019,infanta-leonor,Hospital Universitario Infanta Leonor,7185.0,58.54
+2019,infanta-sofia,Hospital Universitario Infanta Sofía,12192.0,71.28
+2019,la-paz,Hospital Universitario La Paz,14996.0,52.84
+2019,principe-asturias,Hospital Universitario Príncipe de Asturias,5576.0,30.64
+2019,puerta-hierro,Hospital Universitario Puerta de Hierro Majadahonda,2155.0,11.15
+2019,ramon-y-cajal,Hospital Universitario Ramón y Cajal,8250.0,27.01
+2019,santa-cristina,Hospital Universitario Santa Cristina,1410.0,30.92
+2019,severo-ochoa,Hospital Universitario Severo Ochoa,2567.0,43.81
+2019,fuenlabrada,Hospital Universitario de Fuenlabrada,3909.0,75.1
+2019,getafe,Hospital Universitario de Getafe,7776.0,56.98
+2019,mostoles,Hospital Universitario de Móstoles,4252.0,46.23
+2019,torrejon,Hospital Universitario de Torrejón,2324.0,15.17
+2019,la-princesa,Hospital Universitario de la Princesa,10314.0,51.02
+2019,henares,Hospital Universitario del Henares,7274.0,78.29
+2019,sureste,Hospital Universitario del Sureste,11372.0,97.76
+2019,tajo,Hospital Universitario del Tajo,3832.0,48.09
+2019,el-escorial,Hospital de El Escorial,1788.0,40.27
+2020,cruz-roja,Hospital Central de la Cruz Roja San José y Santa Adela,319.0,55.79
+2020,gomez-ulla,Hospital Central de la Defensa Gómez Ulla,1126.0,41.8
+2020,clinico,Hospital Clínico San Carlos,6529.0,79.45
+2020,fjd,Hospital Fundación Jiménez Díaz,4734.0,7.62
+2020,gregorio-maranon,Hospital General Universitario Gregorio Marañón,5759.0,16.86
+2020,villalba,Hospital General de Villalba,206.0,2.57
+2020,nino-jesus,Hospital Infantil Universitario Niño Jesús,500.0,33.66
+2020,rey-juan-carlos,Hospital Rey Juan Carlos,1576.0,5.27
+2020,12-octubre,Hospital Universitario 12 de Octubre,8056.0,39.96
+2020,alcorcon,Hospital Universitario Fundación Alcorcón,1909.0,72.7
+2020,infanta-cristina,Hospital Universitario Infanta Cristina,1540.0,62.83
+2020,infanta-elena,Hospital Universitario Infanta Elena,1042.0,8.43
+2020,infanta-leonor,Hospital Universitario Infanta Leonor,3671.0,54.6
+2020,infanta-sofia,Hospital Universitario Infanta Sofía,8205.0,65.87
+2020,la-paz,Hospital Universitario La Paz,12779.0,59.5
+2020,principe-asturias,Hospital Universitario Príncipe de Asturias,8560.0,38.97
+2020,puerta-hierro,Hospital Universitario Puerta de Hierro Majadahonda,1811.0,10.46
+2020,ramon-y-cajal,Hospital Universitario Ramón y Cajal,7664.0,38.72
+2020,santa-cristina,Hospital Universitario Santa Cristina,1023.0,57.73
+2020,severo-ochoa,Hospital Universitario Severo Ochoa,2005.0,108.51
+2020,fuenlabrada,Hospital Universitario de Fuenlabrada,2338.0,24.54
+2020,getafe,Hospital Universitario de Getafe,8487.0,48.75
+2020,mostoles,Hospital Universitario de Móstoles,4401.0,53.14
+2020,torrejon,Hospital Universitario de Torrejón,2461.0,14.48
+2020,la-princesa,Hospital Universitario de la Princesa,6680.0,60.57
+2020,henares,Hospital Universitario del Henares,4157.0,64.58
+2020,sureste,Hospital Universitario del Sureste,8485.0,112.03
+2020,tajo,Hospital Universitario del Tajo,2665.0,36.74
+2020,el-escorial,Hospital de El Escorial,1271.0,47.43
+2021,cruz-roja,Hospital Central de la Cruz Roja San José y Santa Adela,333.0,18.68
+2021,gomez-ulla,Hospital Central de la Defensa Gómez Ulla,4339.0,83.46
+2021,clinico,Hospital Clínico San Carlos,7736.0,101.98
+2021,fjd,Hospital Fundación Jiménez Díaz,5546.0,9.51
+2021,gregorio-maranon,Hospital General Universitario Gregorio Marañón,9485.0,16.52
+2021,villalba,Hospital General de Villalba,144.0,1.77
+2021,nino-jesus,Hospital Infantil Universitario Niño Jesús,714.0,36.53
+2021,rey-juan-carlos,Hospital Rey Juan Carlos,2309.0,5.32
+2021,12-octubre,Hospital Universitario 12 de Octubre,10534.0,50.85
+2021,alcorcon,Hospital Universitario Fundación Alcorcón,2451.0,75.94
+2021,infanta-cristina,Hospital Universitario Infanta Cristina,2110.0,45.67
+2021,infanta-elena,Hospital Universitario Infanta Elena,1346.0,8.23
+2021,infanta-leonor,Hospital Universitario Infanta Leonor,5810.0,41.75
+2021,infanta-sofia,Hospital Universitario Infanta Sofía,12155.0,72.91
+2021,la-paz,Hospital Universitario La Paz,17604.0,50.47
+2021,principe-asturias,Hospital Universitario Príncipe de Asturias,11062.0,47.71
+2021,puerta-hierro,Hospital Universitario Puerta de Hierro Majadahonda,2717.0,12.01
+2021,ramon-y-cajal,Hospital Universitario Ramón y Cajal,6746.0,23.91
+2021,santa-cristina,Hospital Universitario Santa Cristina,1867.0,27.16
+2021,severo-ochoa,Hospital Universitario Severo Ochoa,2789.0,57.33
+2021,fuenlabrada,Hospital Universitario de Fuenlabrada,5796.0,33.2
+2021,getafe,Hospital Universitario de Getafe,8442.0,54.61
+2021,mostoles,Hospital Universitario de Móstoles,4365.0,35.65
+2021,torrejon,Hospital Universitario de Torrejón,2208.0,13.83
+2021,la-princesa,Hospital Universitario de la Princesa,8050.0,48.72
+2021,henares,Hospital Universitario del Henares,5521.0,69.12
+2021,sureste,Hospital Universitario del Sureste,9022.0,91.37
+2021,tajo,Hospital Universitario del Tajo,4114.0,50.31
+2021,el-escorial,Hospital de El Escorial,1940.0,31.65
+2022,cruz-roja,Hospital Central de la Cruz Roja San José y Santa Adela,415.0,24.9
+2022,gomez-ulla,Hospital Central de la Defensa Gómez Ulla,4490.0,88.27
+2022,fjd,Hospital Fundación Jiménez Díaz,4526.0,7.66
+2022,gregorio-maranon,Hospital General Universitario Gregorio Marañón,8707.0,17.53
+2022,villalba,Hospital General de Villalba,572.0,3.72
+2022,nino-jesus,Hospital Infantil Universitario Niño Jesús,651.0,35.0
+2022,rey-juan-carlos,Hospital Rey Juan Carlos,2919.0,4.1
+2022,12-octubre,Hospital Universitario 12 de Octubre,12471.0,45.53
+2022,alcorcon,Hospital Universitario Fundación Alcorcón,2582.0,72.95
+2022,infanta-cristina,Hospital Universitario Infanta Cristina,3703.0,74.99
+2022,infanta-elena,Hospital Universitario Infanta Elena,1712.0,9.08
+2022,infanta-leonor,Hospital Universitario Infanta Leonor,3979.0,45.75
+2022,infanta-sofia,Hospital Universitario Infanta Sofía,13810.0,120.95
+2022,la-paz,Hospital Universitario La Paz,18185.0,65.55
+2022,principe-asturias,Hospital Universitario Príncipe de Asturias,14072.0,54.13
+2022,puerta-hierro,Hospital Universitario Puerta de Hierro Majadahonda,2271.0,7.66
+2022,ramon-y-cajal,Hospital Universitario Ramón y Cajal,10918.0,38.81
+2022,santa-cristina,Hospital Universitario Santa Cristina,2192.0,44.89
+2022,severo-ochoa,Hospital Universitario Severo Ochoa,2136.0,63.67
+2022,fuenlabrada,Hospital Universitario de Fuenlabrada,11493.0,70.47
+2022,getafe,Hospital Universitario de Getafe,8613.0,46.39
+2022,mostoles,Hospital Universitario de Móstoles,4110.0,38.91
+2022,torrejon,Hospital Universitario de Torrejón,19.0,20.47
+2022,la-princesa,Hospital Universitario de la Princesa,10009.0,65.47
+2022,henares,Hospital Universitario del Henares,5769.0,73.51
+2022,sureste,Hospital Universitario del Sureste,8875.0,117.17
+2022,tajo,Hospital Universitario del Tajo,4923.0,64.38
+2022,el-escorial,Hospital de El Escorial,1863.0,41.19
+2023,cruz-roja,Hospital Central de la Cruz Roja San José y Santa Adela,196.0,14.75
+2023,clinico,Hospital Clínico San Carlos,7955.0,35.22
+2023,fjd,Hospital Fundación Jiménez Díaz,12173.0,12.96
+2023,gregorio-maranon,Hospital General Universitario Gregorio Marañón,14200.0,27.22
+2023,villalba,Hospital General de Villalba,1913.0,9.22
+2023,nino-jesus,Hospital Infantil Universitario Niño Jesús,356.0,31.19
+2023,rey-juan-carlos,Hospital Rey Juan Carlos,5556.0,13.14
+2023,12-octubre,Hospital Universitario 12 de Octubre,8006.0,42.28
+2023,alcorcon,Hospital Universitario Fundación Alcorcón,1518.0,58.68
+2023,infanta-cristina,Hospital Universitario Infanta Cristina,5439.0,107.78
+2023,infanta-elena,Hospital Universitario Infanta Elena,2583.0,12.9
+2023,infanta-leonor,Hospital Universitario Infanta Leonor,5577.0,66.95
+2023,infanta-sofia,Hospital Universitario Infanta Sofía,13839.0,104.41
+2023,la-paz,Hospital Universitario La Paz,17478.0,66.32
+2023,principe-asturias,Hospital Universitario Príncipe de Asturias,14680.0,60.96
+2023,puerta-hierro,Hospital Universitario Puerta de Hierro Majadahonda,3789.0,22.09
+2023,ramon-y-cajal,Hospital Universitario Ramón y Cajal,12209.0,61.8
+2023,santa-cristina,Hospital Universitario Santa Cristina,3403.0,29.65
+2023,severo-ochoa,Hospital Universitario Severo Ochoa,2693.0,55.86
+2023,fuenlabrada,Hospital Universitario de Fuenlabrada,14205.0,89.33
+2023,getafe,Hospital Universitario de Getafe,10705.0,51.75
+2023,mostoles,Hospital Universitario de Móstoles,7056.0,62.61
+2023,torrejon,Hospital Universitario de Torrejón,2283.0,14.75
+2023,la-princesa,Hospital Universitario de la Princesa,6360.0,68.15
+2023,henares,Hospital Universitario del Henares,3960.0,46.92
+2023,sureste,Hospital Universitario del Sureste,10240.0,125.07
+2023,tajo,Hospital Universitario del Tajo,4358.0,54.8
+2023,el-escorial,Hospital de El Escorial,2237.0,54.3
+2024,cruz-roja,Hospital Central de la Cruz Roja San José y Santa Adela,198.0,25.7
+2024,gomez-ulla,Hospital Central de la Defensa Gómez Ulla,3476.0,49.57
+2024,clinico,Hospital Clínico San Carlos,4853.0,25.21
+2024,fjd,Hospital Fundación Jiménez Díaz,15578.0,34.64
+2024,gregorio-maranon,Hospital General Universitario Gregorio Marañón,10538.0,43.54
+2024,villalba,Hospital General de Villalba,3139.0,29.52
+2024,nino-jesus,Hospital Infantil Universitario Niño Jesús,292.0,27.41
+2024,rey-juan-carlos,Hospital Rey Juan Carlos,8054.0,44.0
+2024,12-octubre,Hospital Universitario 12 de Octubre,11874.0,62.03
+2024,alcorcon,Hospital Universitario Fundación Alcorcón,1845.0,47.7
+2024,infanta-cristina,Hospital Universitario Infanta Cristina,5414.0,127.96
+2024,infanta-elena,Hospital Universitario Infanta Elena,2878.0,23.78
+2024,infanta-leonor,Hospital Universitario Infanta Leonor,4392.0,45.28
+2024,infanta-sofia,Hospital Universitario Infanta Sofía,9741.0,92.09
+2024,la-paz,Hospital Universitario La Paz,11545.0,81.59
+2024,principe-asturias,Hospital Universitario Príncipe de Asturias,17929.0,72.24
+2024,puerta-hierro,Hospital Universitario Puerta de Hierro Majadahonda,3146.0,23.65
+2024,ramon-y-cajal,Hospital Universitario Ramón y Cajal,9280.0,67.38
+2024,santa-cristina,Hospital Universitario Santa Cristina,4705.0,40.47
+2024,severo-ochoa,Hospital Universitario Severo Ochoa,2466.0,57.29
+2024,fuenlabrada,Hospital Universitario de Fuenlabrada,10490.0,79.63
+2024,getafe,Hospital Universitario de Getafe,10887.0,73.19
+2024,mostoles,Hospital Universitario de Móstoles,8452.0,67.52
+2024,torrejon,Hospital Universitario de Torrejón,3183.0,15.19
+2024,la-princesa,Hospital Universitario de la Princesa,4798.0,60.54
+2024,henares,Hospital Universitario del Henares,4301.0,49.91
+2024,sureste,Hospital Universitario del Sureste,8698.0,119.14
+2024,tajo,Hospital Universitario del Tajo,6980.0,89.15
+2024,el-escorial,Hospital de El Escorial,2657.0,45.63

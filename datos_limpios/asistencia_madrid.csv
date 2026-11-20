@@ -1,0 +1,244 @@
+anio,concepto,valor,unidad
+1997,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,585646,Número
+1997,Urgencias en establecimientos sanitarios con régimen de internado,2359719,Número
+1997,Pacientes ingresados en establecimientos sanitarios con régimen de internado,584005,Número
+1997,Hospitales públicos-SNS,31,Número
+1997,Consultas en establecimientos sanitarios con régimen de internado,9963337,Número
+1997,Estancias causadas en establecimientos sanitarios con régimen de internado,5661712,Número
+1997,Hospitales privados,44,Número
+1997,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,516061,Número
+1997,Total hospitales,75,Número
+1998,Pacientes ingresados en establecimientos sanitarios con régimen de internado,582280,Número
+1998,Hospitales privados,45,Número
+1998,Hospitales públicos-SNS,32,Número
+1998,Total hospitales,77,Número
+1998,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,512675,Número
+1998,Urgencias en establecimientos sanitarios con régimen de internado,2490718,Número
+1998,Estancias causadas en establecimientos sanitarios con régimen de internado,5466518,Número
+1998,Consultas en establecimientos sanitarios con régimen de internado,10066816,Número
+1998,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,582254,Número
+1999,Hospitales públicos-SNS,32,Número
+1999,Urgencias en establecimientos sanitarios con régimen de internado,2573974,Número
+1999,Estancias causadas en establecimientos sanitarios con régimen de internado,5485009,Número
+1999,Consultas en establecimientos sanitarios con régimen de internado,10367742,Número
+1999,Pacientes ingresados en establecimientos sanitarios con régimen de internado,602308,Número
+1999,Hospitales privados,45,Número
+1999,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,602478,Número
+1999,Total hospitales,77,Número
+1999,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,521437,Número
+2000,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,536811,Número
+2000,Total hospitales,73,Número
+2000,Hospitales públicos-SNS,30,Número
+2000,Hospitales privados,43,Número
+2000,Urgencias en establecimientos sanitarios con régimen de internado,2688024,Número
+2000,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,622646,Número
+2000,Consultas en establecimientos sanitarios con régimen de internado,10694109,Número
+2000,Estancias causadas en establecimientos sanitarios con régimen de internado,5558991,Número
+2000,Pacientes ingresados en establecimientos sanitarios con régimen de internado,622022,Número
+2001,Urgencias en establecimientos sanitarios con régimen de internado,2850506,Número
+2001,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,544069,Número
+2001,Total hospitales,69,Número
+2001,Hospitales públicos-SNS,26,Número
+2001,Hospitales privados,43,Número
+2001,Pacientes ingresados en establecimientos sanitarios con régimen de internado,628021,Número
+2001,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,627381,Número
+2001,Consultas en establecimientos sanitarios con régimen de internado,10494119,Número
+2001,Estancias causadas en establecimientos sanitarios con régimen de internado,5458694,Número
+2002,Consultas en establecimientos sanitarios con régimen de internado,10616289,Número
+2002,Hospitales públicos-SNS,26,Número
+2002,Total hospitales,69,Número
+2002,Pacientes ingresados en establecimientos sanitarios con régimen de internado,632718,Número
+2002,Hospitales privados,43,Número
+2002,Urgencias en establecimientos sanitarios con régimen de internado,2931781,Número
+2002,Estancias causadas en establecimientos sanitarios con régimen de internado,5504233,Número
+2002,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,546110,Número
+2002,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,632983,Número
+2003,Consultas en establecimientos sanitarios con régimen de internado,11149634,Número
+2003,Urgencias en establecimientos sanitarios con régimen de internado,3110981,Número
+2003,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,591626,Número
+2003,Estancias causadas en establecimientos sanitarios con régimen de internado,5541100,Número
+2003,Pacientes ingresados en establecimientos sanitarios con régimen de internado,653855,Número
+2003,Hospitales privados,44,Número
+2003,Hospitales públicos-SNS,26,Número
+2003,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,652381,Número
+2003,Total hospitales,70,Número
+2004,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,670882,Número
+2004,Hospitales privados,44,Número
+2004,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,605625,Número
+2004,Estancias causadas en establecimientos sanitarios con régimen de internado,5446652,Número
+2004,Consultas en establecimientos sanitarios con régimen de internado,11681167,Número
+2004,Urgencias en establecimientos sanitarios con régimen de internado,3186863,Número
+2004,Total hospitales,70,Número
+2004,Hospitales públicos-SNS,26,Número
+2004,Pacientes ingresados en establecimientos sanitarios con régimen de internado,672258,Número
+2005,Hospitales públicos-SNS,26,Número
+2005,Total hospitales,72,Número
+2005,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,617969,Número
+2005,Urgencias en establecimientos sanitarios con régimen de internado,3291920,Número
+2005,Hospitales privados,46,Número
+2005,Estancias causadas en establecimientos sanitarios con régimen de internado,5647278,Número
+2005,Consultas en establecimientos sanitarios con régimen de internado,11723115,Número
+2005,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,690130,Número
+2005,Pacientes ingresados en establecimientos sanitarios con régimen de internado,692515,Número
+2006,Hospitales públicos-SNS,26,Número
+2006,Hospitales privados,46,Número
+2006,Consultas en establecimientos sanitarios con régimen de internado,12319406,Número
+2006,Estancias causadas en establecimientos sanitarios con régimen de internado,5653384,Número
+2006,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,621706,Número
+2006,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,697307,Número
+2006,Total hospitales,72,Número
+2006,Pacientes ingresados en establecimientos sanitarios con régimen de internado,697701,Número
+2006,Urgencias en establecimientos sanitarios con régimen de internado,3452655,Número
+2007,Estancias causadas en establecimientos sanitarios con régimen de internado,5543202,Número
+2007,Hospitales públicos-SNS,27,Número
+2007,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,729516,Número
+2007,Urgencias en establecimientos sanitarios con régimen de internado,3568787,Número
+2007,Consultas en establecimientos sanitarios con régimen de internado,13013175,Número
+2007,Pacientes ingresados en establecimientos sanitarios con régimen de internado,731800,Número
+2007,Total hospitales,75,Número
+2007,Hospitales privados,48,Número
+2007,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,643762,Número
+2008,Urgencias en establecimientos sanitarios con régimen de internado,3701404,Número
+2008,Consultas en establecimientos sanitarios con régimen de internado,13492496,Número
+2008,Total hospitales,83,Número
+2008,Estancias causadas en establecimientos sanitarios con régimen de internado,5561847,Número
+2008,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,735863,Número
+2008,Hospitales públicos-SNS,35,Número
+2008,Pacientes ingresados en establecimientos sanitarios con régimen de internado,736895,Número
+2008,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,666562,Número
+2008,Hospitales privados,48,Número
+2009,Total hospitales,81,Número
+2009,Hospitales públicos-SNS,34,Número
+2009,Hospitales privados,47,Número
+2009,Pacientes ingresados en establecimientos sanitarios con régimen de internado,751613,Número
+2009,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,751081,Número
+2009,Consultas en establecimientos sanitarios con régimen de internado,14402074,Número
+2009,Estancias causadas en establecimientos sanitarios con régimen de internado,5664309,Número
+2009,Urgencias en establecimientos sanitarios con régimen de internado,3863044,Número
+2009,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,704771,Número
+2010,Hospitales públicos-SNS,36,Número
+2010,Estancias causadas en establecimientos sanitarios con régimen de internado,5501688,Número
+2010,Consultas en establecimientos sanitarios con régimen de internado,14639348,Número
+2010,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,741418,Número
+2010,Total hospitales,80,Número
+2010,Urgencias en establecimientos sanitarios con régimen de internado,3751189,Número
+2010,Pacientes ingresados en establecimientos sanitarios con régimen de internado,737918,Número
+2010,Hospitales privados,44,Número
+2010,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,719336,Número
+2011,Total hospitales,81,Número
+2011,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,761363,Número
+2011,Urgencias en establecimientos sanitarios con régimen de internado,3911355,Número
+2011,Estancias causadas en establecimientos sanitarios con régimen de internado,5469113,Número
+2011,Consultas en establecimientos sanitarios con régimen de internado,15090517,Número
+2011,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,749694,Número
+2011,Pacientes ingresados en establecimientos sanitarios con régimen de internado,752330,Número
+2011,Hospitales privados,44,Número
+2011,Hospitales públicos-SNS,37,Número
+2012,Hospitales privados,44,Número
+2012,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,748106,Número
+2012,Total hospitales,81,Número
+2012,Estancias causadas en establecimientos sanitarios con régimen de internado,5400269,Número
+2012,Hospitales públicos-SNS,37,Número
+2012,Consultas en establecimientos sanitarios con régimen de internado,15376796,Número
+2012,Urgencias en establecimientos sanitarios con régimen de internado,3884216,Número
+2012,Pacientes ingresados en establecimientos sanitarios con régimen de internado,749054,Número
+2012,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,761300,Número
+2013,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,748896,Número
+2013,Total hospitales,81,Número
+2013,Estancias causadas en establecimientos sanitarios con régimen de internado,5330695,Número
+2013,Urgencias en establecimientos sanitarios con régimen de internado,4022840,Número
+2013,Hospitales privados,44,Número
+2013,Hospitales públicos-SNS,37,Número
+2013,Consultas en establecimientos sanitarios con régimen de internado,16071629,Número
+2013,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,799494,Número
+2013,Pacientes ingresados en establecimientos sanitarios con régimen de internado,749066,Número
+2014,Estancias causadas en establecimientos sanitarios con régimen de internado,5302403,Número
+2014,Urgencias en establecimientos sanitarios con régimen de internado,4094812,Número
+2014,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,815177,Número
+2014,Total hospitales,79,Número
+2014,Hospitales públicos-SNS,35,Número
+2014,Hospitales privados,44,Número
+2014,Pacientes ingresados en establecimientos sanitarios con régimen de internado,756341,Número
+2014,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,758051,Número
+2014,Consultas en establecimientos sanitarios con régimen de internado,16581596,Número
+2015,Hospitales públicos-SNS,36,Número
+2015,Total hospitales,81,Número
+2015,Pacientes ingresados en establecimientos sanitarios con régimen de internado,777078,Número
+2015,Hospitales privados,46,Número
+2015,Consultas en establecimientos sanitarios con régimen de internado,17680760,Número
+2015,Urgencias en establecimientos sanitarios con régimen de internado,4418014,Número
+2015,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,851784,Número
+2015,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,776104,Número
+2015,Estancias causadas en establecimientos sanitarios con régimen de internado,5248429,Número
+2016,Total hospitales,81,Número
+2016,Pacientes ingresados en establecimientos sanitarios con régimen de internado,774335,Número
+2016,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,849818,Número
+2016,Consultas en establecimientos sanitarios con régimen de internado,17950428,Número
+2016,Estancias causadas en establecimientos sanitarios con régimen de internado,5275422,Número
+2016,Urgencias en establecimientos sanitarios con régimen de internado,4633499,Número
+2016,Hospitales privados,45,Número
+2016,Hospitales públicos-SNS,36,Número
+2016,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,776128,Número
+2017,Total hospitales,81,Número
+2017,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,851310,Número
+2017,Urgencias en establecimientos sanitarios con régimen de internado,4744455,Número
+2017,Estancias causadas en establecimientos sanitarios con régimen de internado,5191721,Número
+2017,Hospitales públicos-SNS,35,Número
+2017,Consultas en establecimientos sanitarios con régimen de internado,18435490,Número
+2017,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,780511,Número
+2017,Pacientes ingresados en establecimientos sanitarios con régimen de internado,782534,Número
+2017,Hospitales privados,46,Número
+2018,Hospitales privados,47,Número
+2018,Hospitales públicos-SNS,35,Número
+2018,Total hospitales,82,Número
+2018,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,790290,Número
+2018,Consultas en establecimientos sanitarios con régimen de internado,19198387,Número
+2018,Urgencias en establecimientos sanitarios con régimen de internado,4787622,Número
+2018,Pacientes ingresados en establecimientos sanitarios con régimen de internado,824666,Número
+2018,Estancias causadas en establecimientos sanitarios con régimen de internado,5227929,Número
+2018,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,882376,Número
+2019,Urgencias en establecimientos sanitarios con régimen de internado,4997639,Número
+2019,Pacientes ingresados en establecimientos sanitarios con régimen de internado,819765,Número
+2019,Total hospitales,85,Número
+2019,Hospitales públicos-SNS,36,Número
+2019,Estancias causadas en establecimientos sanitarios con régimen de internado,5270902,Número
+2019,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,878284,Número
+2019,Hospitales privados,49,Número
+2019,Consultas en establecimientos sanitarios con régimen de internado,19898611,Número
+2019,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,791704,Número
+2020,Pacientes ingresados en establecimientos sanitarios con régimen de internado,726365,Número
+2020,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,636860,Número
+2020,Urgencias en establecimientos sanitarios con régimen de internado,3774270,Número
+2020,Estancias causadas en establecimientos sanitarios con régimen de internado,5166105,Número
+2020,Hospitales privados,48,Número
+2020,Total hospitales,84,Número
+2020,Consultas en establecimientos sanitarios con régimen de internado,17007213,Número
+2020,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,705373,Número
+2020,Hospitales públicos-SNS,36,Número
+2021,Hospitales privados,47,Número
+2021,Hospitales públicos-SNS,37,Número
+2021,Total hospitales,84,Número
+2021,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,819904,Número
+2021,Urgencias en establecimientos sanitarios con régimen de internado,4823027,Número
+2021,Estancias causadas en establecimientos sanitarios con régimen de internado,5182460,Número
+2021,Consultas en establecimientos sanitarios con régimen de internado,18620192,Número
+2021,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,739764,Número
+2021,Pacientes ingresados en establecimientos sanitarios con régimen de internado,756028,Número
+2022,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,774231,Número
+2022,Estancias causadas en establecimientos sanitarios con régimen de internado,5197823,Número
+2022,Hospitales privados,47,Número
+2022,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,900281,Número
+2022,Pacientes ingresados en establecimientos sanitarios con régimen de internado,769017,Número
+2022,Urgencias en establecimientos sanitarios con régimen de internado,5564394,Número
+2022,Total hospitales,84,Número
+2022,Consultas en establecimientos sanitarios con régimen de internado,21265757,Número
+2022,Hospitales públicos-SNS,37,Número
+2023,Estancias causadas en establecimientos sanitarios con régimen de internado,5178331,Número
+2023,Hospitales privados,47,Número
+2023,Intervenciones quirúrgicas en establecimientos sanitarios con régimen de internado,963067,Número
+2023,Total hospitales,85,Número
+2023,Pacientes dados de alta en establecimientos sanitarios con régimen de internado,812014,Número
+2023,Pacientes ingresados en establecimientos sanitarios con régimen de internado,810216,Número
+2023,Urgencias en establecimientos sanitarios con régimen de internado,5620438,Número
+2023,Hospitales públicos-SNS,37,Número
+2023,Consultas en establecimientos sanitarios con régimen de internado,22221698,Número

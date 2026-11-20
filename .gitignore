@@ -1,0 +1,19 @@
+# Secretos: nunca se suben
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials*
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
