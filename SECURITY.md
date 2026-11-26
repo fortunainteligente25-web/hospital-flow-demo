@@ -1,6 +1,6 @@
 # Seguridad · Hospital Flow
 
-Revisión hecha el 20/11/2026 por Flavio Durán (con ayuda de Claude).
+Revisión hecha el 20/11/2026 por Flavio Durán.
 
 ## Qué protege la demo
 
